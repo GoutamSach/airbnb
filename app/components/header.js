@@ -19,7 +19,7 @@ function Header({ placeholder }) {
   const [endDate, setendDate] = useState(new Date());
   const [noOfGuests, setnoOfGuests] = useState(1);
   const router = useRouter();
-  
+  // ?
   
   // const pathnames = usePathname();
 
